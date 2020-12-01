@@ -1,0 +1,96 @@
+warning: dependency cycle detected:
+warning: smbclient will be installed before its cifs-utils dependency
+warning: dependency cycle detected:
+warning: harfbuzz will be installed before its freetype2 dependency
+warning: dependency cycle detected:
+warning: mesa will be installed before its libglvnd dependency
+warning: dependency cycle detected:
+warning: usbmuxd will be installed before its libimobiledevice dependency
+warning: dependency cycle detected:
+warning: phonon-qt5-gstreamer will be installed before its phonon-qt5 dependency
+warning: dependency cycle detected:
+warning: python-incremental will be installed before its python-twisted dependency
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/motd installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/motd.pacnew
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/passwd installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/passwd.pacnew
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/resolv.conf installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/resolv.conf.pacnew
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/shadow installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/shadow.pacnew
+warning: directory permissions differ on /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/root/
+filesystem: 755  package: 750
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/mkinitcpio.conf installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/mkinitcpio.conf.pacnew
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/ssh/sshd_config installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/ssh/sshd_config.pacnew
+warning: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/xdg/reflector/reflector.conf installed as /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs/etc/xdg/reflector/reflector.conf.pacnew
+error: command failed to execute correctly
+error: command failed to execute correctly
+[mkarchiso] WARNING: customize_airootfs.sh is deprecated! Support for it will be removed in a future archiso version.
+==> WARNING: /home/skywalkersw5/.stuff/archiso/archiso/iso/x86_64/airootfs is not a mountpoint. This may have undesirable side effects.
+
+Unrecognised xattr prefix system.posix_acl_default
+
+Unrecognised xattr prefix system.posix_acl_access
+
+Unrecognised xattr prefix system.posix_acl_access
+
+Unrecognised xattr prefix system.posix_acl_default
+xorriso 1.5.2 : RockRidge filesystem manipulator, libburnia project.
+
+xorriso : NOTE : Environment variable SOURCE_DATE_EPOCH encountered with value 1606831072
+Drive current: -outdev 'stdio:/home/skywalkersw5/.stuff/archiso/archiso/iso/archlinux-2020.12.01-x86_64.iso'
+Media current: stdio file, overwriteable
+Media status : is blank
+Media summary: 0 sessions, 0 data blocks, 0 data,  294g free
+Added to ISO image: directory '/'='/home/skywalkersw5/.stuff/archiso/archiso/iso/iso'
+xorriso : UPDATE :     105 files added in 1 seconds
+xorriso : UPDATE :     105 files added in 1 seconds
+xorriso : NOTE : Copying to System Area: 432 bytes from file '/home/skywalkersw5/.stuff/archiso/archiso/iso/iso/syslinux/isohdpfx.bin'
+libisofs: WARNING : Image size exceeds 1024 cylinders. Cannot align partition.
+libisofs: WARNING : There are said to be BIOSes which will not boot this via MBR.
+xorriso : UPDATE :  0.20% done
+xorriso : UPDATE :  3.79% done
+xorriso : UPDATE :  7.62% done
+xorriso : UPDATE :  9.88% done, estimate finish Tue Dec 01 15:07:44 2020
+xorriso : UPDATE :  9.88% done, estimate finish Tue Dec 01 15:07:54 2020
+xorriso : UPDATE :  13.51% done, estimate finish Tue Dec 01 15:07:51 2020
+xorriso : UPDATE :  17.74% done, estimate finish Tue Dec 01 15:07:49 2020
+xorriso : UPDATE :  20.04% done, estimate finish Tue Dec 01 15:07:50 2020
+xorriso : UPDATE :  23.20% done, estimate finish Tue Dec 01 15:07:49 2020
+xorriso : UPDATE :  23.27% done, estimate finish Tue Dec 01 15:07:54 2020
+xorriso : UPDATE :  26.55% done, estimate finish Tue Dec 01 15:07:53 2020
+xorriso : UPDATE :  30.45% done, estimate finish Tue Dec 01 15:07:51 2020
+xorriso : UPDATE :  33.52% done, estimate finish Tue Dec 01 15:07:51 2020
+xorriso : UPDATE :  35.67% done, estimate finish Tue Dec 01 15:07:53 2020
+xorriso : UPDATE :  36.88% done, estimate finish Tue Dec 01 15:07:55 2020
+xorriso : UPDATE :  37.36% done, estimate finish Tue Dec 01 15:07:58 2020
+xorriso : UPDATE :  41.31% done, estimate finish Tue Dec 01 15:07:55 2020
+xorriso : UPDATE :  44.55% done, estimate finish Tue Dec 01 15:07:54 2020
+xorriso : UPDATE :  47.10% done, estimate finish Tue Dec 01 15:07:54 2020
+xorriso : UPDATE :  49.06% done, estimate finish Tue Dec 01 15:07:54 2020
+xorriso : UPDATE :  49.41% done, estimate finish Tue Dec 01 15:07:57 2020
+xorriso : UPDATE :  49.76% done, estimate finish Tue Dec 01 15:07:58 2020
+xorriso : UPDATE :  51.36% done, estimate finish Tue Dec 01 15:07:59 2020
+xorriso : UPDATE :  55.20% done, estimate finish Tue Dec 01 15:07:59 2020
+xorriso : UPDATE :  57.60% done, estimate finish Tue Dec 01 15:07:59 2020
+xorriso : UPDATE :  58.26% done, estimate finish Tue Dec 01 15:08:01 2020
+xorriso : UPDATE :  58.62% done, estimate finish Tue Dec 01 15:08:03 2020
+xorriso : UPDATE :  60.74% done, estimate finish Tue Dec 01 15:08:03 2020
+xorriso : UPDATE :  65.97% done, estimate finish Tue Dec 01 15:07:59 2020
+xorriso : UPDATE :  67.55% done, estimate finish Tue Dec 01 15:08:00 2020
+xorriso : UPDATE :  69.40% done, estimate finish Tue Dec 01 15:08:00 2020
+xorriso : UPDATE :  70.88% done, estimate finish Tue Dec 01 15:08:00 2020
+xorriso : UPDATE :  70.95% done, estimate finish Tue Dec 01 15:08:02 2020
+xorriso : UPDATE :  71.85% done, estimate finish Tue Dec 01 15:08:03 2020
+xorriso : UPDATE :  73.07% done, estimate finish Tue Dec 01 15:08:04 2020
+xorriso : UPDATE :  77.41% done, estimate finish Tue Dec 01 15:08:02 2020
+xorriso : UPDATE :  78.51% done, estimate finish Tue Dec 01 15:08:02 2020
+xorriso : UPDATE :  80.13% done, estimate finish Tue Dec 01 15:08:03 2020
+xorriso : UPDATE :  81.57% done, estimate finish Tue Dec 01 15:08:03 2020
+xorriso : UPDATE :  83.27% done, estimate finish Tue Dec 01 15:08:03 2020
+xorriso : UPDATE :  86.85% done, estimate finish Tue Dec 01 15:08:02 2020
+xorriso : UPDATE :  90.22% done, estimate finish Tue Dec 01 15:08:01 2020
+xorriso : UPDATE :  92.11% done, estimate finish Tue Dec 01 15:08:01 2020
+xorriso : UPDATE :  92.59% done, estimate finish Tue Dec 01 15:08:01 2020
+xorriso : UPDATE :  95.51% done, estimate finish Tue Dec 01 15:08:01 2020
+xorriso : UPDATE :  99.07% done
+ISO image produced: 1186807 sectors
+Written to medium : 1186807 sectors at LBA 0
+Writing to 'stdio:/home/skywalkersw5/.stuff/archiso/archiso/iso/archlinux-2020.12.01-x86_64.iso' completed successfully.
+

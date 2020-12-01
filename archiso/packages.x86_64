@@ -61,7 +61,6 @@ mtools
 nano
 nbd
 ndisc6
-networkmanager
 nfs-utils
 nilfs-utils
 nmap
@@ -79,7 +78,6 @@ reflector
 reiserfsprogs
 rp-pppoe
 rsync
-rtl8821ce-dkms
 rxvt-unicode-terminfo
 sdparm
 sg3_utils
@@ -103,7 +101,16 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-yay
 zsh
 
 
+# custom packages
+yay
+grub
+rtl8821ce-dkms
+networkmanager
+bashtop
+neofetch
+git
+gnome
+firefox
